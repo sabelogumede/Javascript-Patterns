@@ -1,1 +1,1 @@
-# jsVanilla-PWA
+# Javascript - Patterns
