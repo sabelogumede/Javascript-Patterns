@@ -4,6 +4,10 @@
 
 - treate a function like a variable, meaning they can be passed as arguments to other functions as value to a variable or even return in a function.
 
+#Callback
+
+- is a function that is called inside of another function.
+
 # Design Pattern
 
 - A general, reusable solution to a commonly occurring problem within a given context in software design.
