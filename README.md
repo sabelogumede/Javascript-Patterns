@@ -13,7 +13,12 @@
 - A general, reusable solution to a commonly occurring problem within a given context in software design.
 
 1. Creational - Create new things
+
+- Prototype/Class design patterns
+-
+
 2. Structural - Structure your code
+
 3. Behavioral - Use for behaviours in code
 
 From course: JavaScript: Patterns
