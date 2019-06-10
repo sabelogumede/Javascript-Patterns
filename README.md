@@ -15,7 +15,10 @@
 1. Creational - Create new things
 
 - Prototype/Class design patterns
--
+- constructor pattern
+- Singleton pattern
+- factory pattern
+- Abstract Factory
 
 2. Structural - Structure your code
 
